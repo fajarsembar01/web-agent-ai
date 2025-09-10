@@ -16,7 +16,7 @@ export default function Home() {
   const [messages, setMessages] = useState<ChatMsg[]>([
     {
       sender: "aska",
-      text: "Haii 👋 aku ASKA 🤖✨ — Siap bantu semua pertanyaanmu!",
+      text: "Haii 👋 aku ASKA 🤖✨, Agent AI super canggih di SDN Semper Barat 01. Siap bantu semua pertanyaanmu!📚✨",
     },
   ]);
   const [input, setInput] = useState("");
