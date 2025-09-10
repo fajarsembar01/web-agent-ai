@@ -73,7 +73,7 @@ export default function Home() {
         <div className="mx-auto flex w-full max-w-3xl gap-2">
           <Input
             className="bg-zinc-700 text-white border-zinc-600 placeholder:text-zinc-400"
-            placeholder="Sini Tanyain ASKA ✨..."
+            placeholder="Tanya ASKA ✨..."
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={onKeyDown}

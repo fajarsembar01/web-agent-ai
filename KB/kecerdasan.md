@@ -1428,3 +1428,253 @@ Murid pada **Sekolah Rakyat** dan **Sekolah Gratis** dapat mengajukan KJP Plus, 
   2. **Dana KJMU Semester ke-2** (periode Juli s.d. Desember) → disalurkan pada bulan **November**.  
 
 - Pendaftaran KJMU berikutnya direncanakan akan dilaksanakan pada bulan **Maret 2026**.
+
+
+# KALENDER PENDIDIKAN TAHUN AJARAN 2025/2026   
+**KEPUTUSAN KEPALA DINAS PENDIDIKAN PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 89 TAHUN 2025**  
+**TENTANG**  
+**KALENDER PENDIDIKAN TAHUN AJARAN 2025/2026**
+
+## I. UMUM  
+
+Yang dimaksud dalam Keputusan ini dengan:  
+
+1. **Dinas** adalah Dinas Pendidikan Provinsi DKI Jakarta.  
+
+2. **Satuan Pendidikan** adalah bentuk kelompok layanan pendidikan yang menyelenggarakan Pendidikan Anak Usia Dini (TK/KB/SPS/TPA), Taman Kanak Luar Biasa (TKLB), Sekolah Dasar (SD), Sekolah Dasar Luar Biasa (SDLB), Sekolah Menengah Pertama (SMP), Sekolah Menengah Pertama Luar Biasa (SMPLB), Sekolah Menengah Atas (SMA), Sekolah Menengah Atas Luar Biasa (SMALB), Sekolah Menengah Kejuruan (SMK), dan Sanggar Kegiatan Belajar (SKB)/Pusat Kegiatan Belajar Masyarakat (PKBM) dalam lingkungan pembinaan Dinas Pendidikan Provinsi Daerah Khusus Ibukota Jakarta.  
+
+3. **Pendidikan Kesetaraan** adalah pendidikan nonformal yang mencakup pendidikan Paket A setara SD, Paket B setara SMP, dan Paket C setara SMA dengan penekanan pada penguasaan pengetahuan, keterampilan fungsional, serta pengembangan sikap dan kepribadian profesional Murid, yang dilaksanakan pada suatu lembaga pendidikan dalam bentuk Sanggar Kegiatan Belajar (SKB) dan Pusat Kegiatan Belajar Mengajar (PKBM).  
+
+4. **Pendidikan Anak Usia Dini**, yang selanjutnya disingkat PAUD, adalah upaya pembinaan yang ditujukan kepada anak sejak lahir sampai usia 6 (enam) tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar memiliki kesiapan dalam memasuki pendidikan lebih lanjut.  
+
+5. **Satuan PAUD** adalah layanan PAUD yang dilaksanakan pada suatu lembaga pendidikan dalam bentuk Taman Kanak-Kanak (TK), Kelompok Bermain (KB), Taman Penitipan Anak (TPA), dan Satuan PAUD Sejenis (SPS).  
+
+6. **Sekolah Dasar**, yang selanjutnya disingkat SD adalah salah satu bentuk Satuan Pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar.  
+
+7. **Sekolah Dasar Luar Biasa**, yang selanjutnya disingkat SDLB adalah salah satu bentuk Satuan Pendidikan Khusus bagi Murid yang memiliki tingkat kesulitan dalam mengikuti proses pembelajaran karena kelainan fisik, emosional, mental, dan/atau sosial.  
+
+8. **Sekolah Menengah Pertama**, yang selanjutnya disingkat SMP, adalah salah satu bentuk Satuan Pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar sebagai lanjutan dari SD atau bentuk lain yang sederajat atau lanjutan dari hasil belajar yang diakui sama atau setara SD.  
+
+9. **Sekolah Menengah Pertama Luar Biasa**, yang selanjutnya disingkat SMPLB adalah salah satu bentuk Satuan Pendidikan Khusus bagi Murid sebagai lanjutan dari SDLB atau bentuk lain yang sederajat.  
+
+10. **Sekolah Menengah Atas**, yang selanjutnya disingkat SMA adalah salah satu bentuk Satuan Pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan menengah sebagai lanjutan SMP atau bentuk lain yang sederajat atau lanjutan dari hasil belajar yang diakui sama/setara SMP.  
+
+11. **Sekolah Menengah Atas Luar Biasa**, yang selanjutnya disingkat SMALB adalah salah satu bentuk Satuan Pendidikan Khusus bagi Murid yang telah lulus dari SMPLB atau bentuk lain yang sederajat.  
+
+12. **Sekolah Menengah Kejuruan**, yang selanjutnya disingkat SMK adalah salah satu bentuk Satuan Pendidikan formal yang menyelenggarakan pendidikan kejuruan pada jenjang pendidikan menengah sebagai lanjutan dari SMP atau bentuk lain yang sederajat atau lanjutan dari hasil belajar yang diakui sama atau setara SMP.  
+
+13. **Permulaan Tahun Ajaran** adalah waktu dimulainya kegiatan pembelajaran pada awal tahun ajaran pada setiap Satuan Pendidikan.  
+
+14. **Hari Sekolah** adalah jumlah hari dan jam yang digunakan oleh guru, tenaga kependidikan, dan Murid dalam penyelenggaraan pendidikan di Satuan Pendidikan.  
+
+15. **Minggu Efektif Belajar** adalah jumlah minggu kegiatan pembelajaran di luar waktu libur untuk setiap tahun ajaran pada setiap Satuan Pendidikan.  
+
+16. **Waktu Libur** adalah waktu yang ditetapkan untuk tidak diadakan kegiatan pembelajaran terjadi pada Satuan Pendidikan yang dimaksud. Waktu libur dapat berbentuk jeda tengah semester, jeda antar semester, libur akhir tahun ajaran, hari libur keagamaan, hari libur umum termasuk hari-hari besar nasional, dan hari libur khusus.
+
+17. **Kegiatan Tatap Muka** adalah kegiatan pembelajaran yang berupa proses interaksi antara Murid dengan pendidik.  
+
+18. **Penugasan Terstruktur** adalah kegiatan pembelajaran yang berupa pendalaman materi pembelajaran oleh Murid yang dirancang oleh pendidik untuk mencapai kompetensi dasar. Waktu penyelesaian penugasan terstruktur ditentukan oleh pendidik.  
+
+19. **Kegiatan Mandiri Tidak Terstruktur** adalah kegiatan pembelajaran yang berupa pendalaman materi pembelajaran oleh Murid yang dirancang oleh pendidik untuk mencapai kompetensi dasar. Waktu penyelesaiannya diatur sendiri oleh Murid.  
+
+20. **Hari Belajar Efektif** adalah hari belajar yang betul-betul digunakan untuk kegiatan belajar mengajar sesuai dengan kebutuhan kurikulum.  
+
+21. **Semester** adalah periode paruh tahun, yang menggambarkan masa enam bulan pada tahun ajaran. Dimana dalam satu tahun terdiri atas dua semester yaitu semester satu dan semester dua.  
+
+22. **Tahun ajaran** adalah satuan waktu pemberian pelajaran selama satu tahun.  
+
+23. **Libur Semester** adalah libur yang diadakan pada akhir setiap Semester.  
+
+24. **Libur Umum** adalah libur yang diadakan untuk memperingati peristiwa nasional atau keagamaan sesuai dengan ketentuan yang ditetapkan oleh Menteri Agama, Menteri Tenaga Kerja dan Transmigrasi, dan Menteri Pendayagunaan Aparatur Negara serta Surat Edaran Gubernur Provinsi DKI Jakarta.  
+
+25. **Libur Ramadan** adalah libur awal puasa dan menjelang Hari Raya Idulfitri.  
+
+26. **Libur Hari Raya Idulfitri** adalah libur sekitar Hari Raya Idulfitri.  
+
+27. **Libur Khusus** adalah libur yang diadakan sehubungan dengan adanya peristiwa lain di luar ketentuan tentang libur umum dan libur bulan Ramadan.  
+
+28. **Pembelajaran** adalah proses interaksi Murid dengan pendidik dan/atau sumber belajar pada suatu lingkungan belajar tertentu untuk menjadikan Murid memahami dan menguasai ilmu pengetahuan.  
+
+29. **Penilaian** adalah proses pengumpulan dan pengolahan informasi untuk mengetahui kebutuhan belajar dan capaian perkembangan hasil belajar Murid.  
+
+30. **Masa Pengenalan Lingkungan Sekolah** selanjutnya disingkat MPLS adalah masa/waktu di mana Anak diperkenalkan dengan situasi dan kondisi lingkungan yang baru, dengan tujuan agar anak mampu beradaptasi lebih cepat dan lebih mengenal situasi baik lingkungan fisik maupun lingkungan sosial.  
+
+31. **Masa Pengenalan Lingkungan Sekolah** adalah dalam rangka:  
+   a. mengenali potensi diri siswa baru;  
+   b. membantu siswa baru beradaptasi dengan lingkungan Satuan Pendidikan dan sekitarnya, antara lain terhadap aspek keamanan, fasilitas umum, dan sarana prasarana sekolah;  
+   c. menumbuhkan motivasi, semangat, dan cara belajar efektif sebagai siswa baru.  
+
+---
+
+## II. PERMULAAN DAN AKHIR TAHUN AJARAN  
+
+1. Tahun Ajaran 2025/2026 dimulai hari Senin, tanggal 14 Juli 2025 dan berakhir hari Jumat, tanggal 19 Juni 2026.  
+
+2. Untuk Pendidikan Kesetaraan pada SKB/PKBM bagi Murid baru dimulai hari Rabu, tanggal 4 Agustus 2025 dan berakhir hari Jumat, tanggal 19 Juni 2026.  
+
+---
+
+## III. PENERIMAAN MURID BARU DAN PERSIAPAN TAHUN AJARAN  
+
+1. Alur proses pelaksanaan Penerimaan Murid Baru (PMB) diatur tersendiri dalam Keputusan Kepala Dinas Pendidikan.  
+
+2. Pengaturan kelas dan penyusunan jadwal pelajaran dilaksanakan selambat-lambatnya hari Jumat, tanggal 11 Juli 2025 dan untuk Murid baru pada Pendidikan Kesetaraan hari Jumat, tanggal 1 Agustus 2025.  
+
+3. Sebelum memasuki tahun ajaran baru, Kepala Satuan Pendidikan wajib membuat program yang mencakup:  
+   a. Program Kerja Sekolah; dan  
+   b. Rencana Kegiatan dan Anggaran Sekolah (RKAS).  
+
+4. Sebelum tahun ajaran baru, Pendidik (guru/tutor) wajib membuat program yang mencakup:  
+   a. Program Tahunan dan Semester;  
+   b. Program Kegiatan Pembelajaran;  
+   c. Program Pengembangan Diri yang meliputi:  
+      1) Kegiatan ekstrakurikuler, khusus bagi guru yang diberikan tugas sebagai Pembina kegiatan ekstrakurikuler;  
+      2) Layanan bimbingan dan peminatan pembelajaran oleh Guru Bimbingan Konseling (BK).  
+   d. Program lain dalam rangka pelaksanaan Manajemen Berbasis Sekolah (MBS).  
+
+
+## IV. HARI-HARI PERTAMA MASUK SEKOLAH  
+
+1. **Masa Pengenalan Lingkungan Sekolah (MPLS)** bagi Murid kelas VII SMP dan SMPLB, kelas X SMA, SMALB, dan SMK dilaksanakan mulai tanggal 14 sampai dengan 16 Juli 2025. Khusus Murid baru PAUD, TKLB, kelas I SD dan SDLB dilaksanakan mulai tanggal 14 sampai dengan 25 Juli 2025.  
+
+2. Bagi Murid Pendidikan Kesetaraan Paket B setara SMP dan Paket C setara SMA dilaksanakan mulai tanggal 4 sampai dengan 6 Agustus 2025. Khusus Murid baru Pendidikan Kesetaraan Paket A setara SD dilaksanakan mulai tanggal 4 sampai dengan 15 Agustus 2025.  
+
+3. Hari-hari pertama masuk sekolah diisi dengan MPLS, sesuai dengan ketentuan yang berlaku.  
+
+---
+
+## V. WAKTU KEGIATAN PEMBELAJARAN  
+
+### 1. Kegiatan Pembelajaran  
+
+a. Kegiatan pembelajaran bagi kelas VII SMP dan SMPLB, kelas X SMA, SMALB dan SMK dimulai hari Kamis, tanggal 17 Juli 2025. Khusus PAUD, TKLB, kelas I SD dan SDLB dimulai Senin tanggal 28 Juli 2025.  
+
+b. Kegiatan pembelajaran bagi kelas II sampai dengan kelas VI SD dan SDLB, kelas VIII dan IX SMP dan SMPLB, kelas XI dan XII SMA dan SMK, dan kelas XIII khusus program SMK 4 tahun dimulai hari Senin, tanggal 14 Juli 2025.  
+
+c. Kegiatan pembelajaran bagi Murid baru Paket B dan Paket C dimulai hari Kamis, tanggal 7 Agustus 2025. Khusus Paket A dimulai Senin, tanggal 18 Agustus 2025.  
+
+d. Kegiatan pembelajaran bagi Paket A Kelas II sampai dengan kelas VI, Paket B Kelas VIII dan Kelas IX, Paket C Kelas XI dan Kelas XII dimulai hari Senin, 4 Agustus 2025.  
+
+---
+
+### 2. Penilaian Hasil Belajar  
+
+a. Penilaian Hasil Belajar disesuaikan dengan Karakteristik, Jalur, Jenjang, dan Jenis Satuan Pendidikan; dan  
+b. Pelaksanaan Penilaian dilakukan sebelum, pada saat, dan/atau setelah pembelajaran berlangsung.  
+
+---
+
+### 3. Beban Belajar  
+
+Beban Belajar merupakan keseluruhan kegiatan yang harus diikuti Murid dalam satu minggu, satu semester dan satu tahun pembelajaran.  
+
+a. **Beban Belajar Satuan Pendidikan Anak Usia Dini**  
+- Alokasi waktu pembelajaran di pendidikan anak usia dini atau bentuk lain yang sederajat untuk anak usia 4 (empat) sampai dengan 6 (enam) tahun paling sedikit 900 (sembilan ratus) menit per minggu.  
+- Alokasi waktu pembelajaran di pendidikan anak usia dini atau bentuk lain yang sederajat untuk anak usia 3 (tiga) sampai dengan 4 (empat) tahun paling sedikit 360 (tiga ratus enam puluh) menit per minggu.  
+
+b. **Beban Belajar Sekolah Dasar**  
+1) Beban belajar di Kelas I, II, III, IV dan V dalam satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+2) Beban belajar di Kelas VI pada semester 1 (satu) paling sedikit 18 minggu dan paling banyak 20 minggu.  
+3) Beban belajar di Kelas VI pada semester 2 (dua) paling sedikit 14 minggu dan paling banyak 16 minggu.  
+
+c. **Beban Belajar Sekolah Menengah Pertama**  
+1) Beban belajar di Kelas VII dan VIII dalam satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+2) Beban belajar di Kelas IX pada semester 1 (satu) paling sedikit 18 minggu dan paling banyak 20 minggu.  
+3) Beban belajar di Kelas IX pada semester 2 (dua) paling sedikit 14 minggu dan paling banyak 16 minggu.  
+
+d. **Beban Belajar Sekolah Menengah Atas**  
+1) Beban belajar di Kelas X dan XI dalam satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+2) Beban belajar di Kelas XII pada semester 1 (satu) paling sedikit 18 minggu dan paling banyak 20 minggu.  
+3) Beban belajar di Kelas XII pada semester 2 (dua) paling sedikit 14 minggu dan paling banyak 16 minggu.  
+
+e. **Beban Belajar Sekolah Menengah Kejuruan**  
+1) Beban belajar di Kelas X dan XI dalam satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+2) Beban belajar di Kelas XII pada semester 1 (satu) paling sedikit 18 minggu dan paling banyak 20 minggu.  
+3) Beban belajar di Kelas XII pada semester 2 (dua) paling sedikit 14 minggu dan paling banyak 16 minggu.  
+4) Beban belajar di Kelas XIII pada semester 1 (satu) paling sedikit 18 minggu dan paling banyak 20 minggu.  
+5) Beban belajar di Kelas XIII pada semester 2 (dua) paling sedikit 14 minggu dan paling banyak 16 minggu.  
+
+f. **Beban Belajar di SLB (TKLB, SDLB, SMPLB dan SMALB)**  
+1) **Taman Kanak-kanak Luar Biasa**  
+   - Alokasi waktu pembelajaran di taman kanak-kanak luar biasa untuk Murid usia 4 (empat) sampai dengan 6 (enam) tahun paling sedikit 900 (sembilan ratus) menit per minggu.  
+   - Untuk Murid usia 3 (tiga) sampai dengan 4 (empat) tahun paling sedikit 360 (tiga ratus enam puluh) menit per minggu.  
+2) **Sekolah Dasar Luar Biasa**  
+   - Kelas I–V: satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+   - Kelas VI semester 1: paling sedikit 18 minggu dan paling banyak 20 minggu.  
+   - Kelas VI semester 2: paling sedikit 14 minggu dan paling banyak 16 minggu.  
+3) **Sekolah Menengah Pertama Luar Biasa**  
+   - Kelas VII–VIII: satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+   - Kelas IX semester 1: paling sedikit 18 minggu dan paling banyak 20 minggu.  
+   - Kelas IX semester 2: paling sedikit 14 minggu dan paling banyak 16 minggu.  
+4) **Sekolah Menengah Atas Luar Biasa**  
+   - Kelas X–XI: satu semester paling sedikit 18 minggu dan paling banyak 20 minggu.  
+   - Kelas XII semester 1: paling sedikit 18 minggu dan paling banyak 20 minggu.  
+   - Kelas XII semester 2: paling sedikit 14 minggu dan paling banyak 16 minggu.  
+
+g. **Beban Belajar Pendidikan Kesetaraan**  
+Muatan belajar program pendidikan kesetaraan dinyatakan dalam Satuan Kredit Kompetensi (SKK) yang menunjukkan bobot kompetensi yang harus dicapai oleh Murid dalam mengikuti program pembelajaran, baik melalui tatap muka, kegiatan belajar mandiri, dan/atau tutorial.  
+- 1 (satu) SKK adalah 1 (satu) satuan kompetensi yang dicapai melalui pembelajaran 1 jam tatap muka atau 2 jam pembelajaran tutorial atau 3 jam pembelajaran mandiri, atau kombinasi secara proporsional.  
+- 1 jam tatap muka = 35 menit untuk Program Paket A, 40 menit untuk Program Paket B, dan 45 menit untuk Program Paket C.  
+- Kelas tengah dan akhir menyesuaikan pelaksanaan di Satuan Pendidikan.  
+
+### 4. Alokasi Waktu Minggu Efektif Belajar, Waktu Libur, dan Kegiatan Lainnya  
+
+| No | KEGIATAN                             | ALOKASI WAKTU               | KETERANGAN                                                                 |
+|----|--------------------------------------|-----------------------------|-----------------------------------------------------------------------------|
+| 1  | Minggu efektif belajar               | Min. 32 minggu, maks. 44 minggu | Digunakan untuk kegiatan pembelajaran efektif di setiap Satuan Pendidikan |
+| 2  | Libur semester                       | Maks. 2 minggu              | Digunakan untuk kegiatan jeda tengah semester (2 kali)                     |
+| 3  | Libur akhir tahun ajaran             | Maks. 3 minggu              | Digunakan untuk persiapan kegiatan dan administrasi akhir serta awal tahun ajaran |
+| 4  | Hari libur keagamaan                 | 2 – 4 minggu                | Satuan Pendidikan yang memerlukan libur keagamaan lebih panjang dapat mengatur sendiri tanpa mengurangi jumlah minggu efektif belajar dan waktu pembelajaran efektif |
+| 5  | Hari libur umum/nasional             | Maks. 2 minggu              | Disesuaikan dengan Peraturan Pemerintah                                    |
+| 6  | Hari libur khusus                    | Maks. 1 minggu              | Untuk Satuan Pendidikan sesuai dengan ciri kekhususan masing-masing        |
+| 7  | Kegiatan khusus Satuan Pendidikan    | Maks. 2 minggu              | Digunakan untuk kegiatan yang diprogramkan secara khusus oleh Satuan Pendidikan tanpa mengurangi jumlah minggu efektif belajar dan waktu pembelajaran |
+
+---
+
+## VI. HARI-HARI BELAJAR SATUAN PENDIDIKAN  
+
+1. **Awal dan Akhir Semester**  
+   a. Semester 1 dimulai hari Senin, tanggal 14 Juli 2025 dan berakhir hari Jumat, tanggal 19 Desember 2025.  
+   b. Semester 1 untuk Pendidikan Kesetaraan dimulai hari Senin, tanggal 4 Agustus 2025 dan berakhir hari Jumat, tanggal 19 Desember 2025.  
+   c. Semester 2 dimulai hari Senin, tanggal 5 Januari 2026 dan berakhir hari Jumat, tanggal 19 Juni 2026.    
+
+2. **Larangan Perayaan Pada Hari Efektif**  
+   a. Hari belajar efektif tidak dibenarkan untuk kegiatan perayaan ulang tahun Daerah atau Kota dan Badan atau Organisasi, penerimaan tamu, dan lain-lain kegiatan yang bukan kegiatan dalam proses pembelajaran di Satuan Pendidikan.  
+   b. Pengecualian pada angka a di atas dapat dilaksanakan dengan izin khusus dari Kepala Dinas Pendidikan Provinsi DKI Jakarta.  
+
+---
+
+## VII. KEGIATAN AKHIR SEMESTER  
+
+1. Akhir semester adalah akhir waktu yang ada pada semester 1 (satu) dan semester 2 (dua).  
+2. Guru dapat melaksanakan Penilaian Pada Akhir Semester.  
+3. Pada akhir semester 1 dan semester 2 Satuan Pendidikan dapat melakukan kegiatan pekan olahraga dan seni (Porseni), lomba kreativitas, atau praktik pembelajaran yang bertujuan untuk mengembangkan bakat, kepribadian, prestasi dan kreativitas siswa dalam rangka pengembangan pendidikan anak seutuhnya.  
+4. Kegiatan penilaian pada akhir semester direncanakan dan dilaksanakan oleh Satuan Pendidikan.  
+
+---
+
+## VIII. PENYERAHAN LAPORAN HASIL BELAJAR DAN HARI-HARI LIBUR  
+
+1. **Penyerahan Laporan Hasil Belajar (Rapor)**  
+   a. Penyerahan Laporan Penilaian Hasil Belajar PAUD, TKLB, SD, SDLB, SMP, SMPLB, SMA, SMALB, SMK, SKB/PKBM untuk Semester 1 (satu) dilaksanakan pada hari Jumat, tanggal 19 Desember 2025.  
+   b. Penyerahan Laporan Penilaian Hasil Belajar PAUD, TKLB, SD, SDLB, SMP, SMPLB, SMA, SMALB, SMK, SKB/PKBM untuk Semester 2 (dua) dilaksanakan pada hari Jumat, tanggal 19 Juni 2026.  
+   c. Khusus untuk Kelas VI SD/SDLB, Kelas IX SMP/SMPLB, Kelas XII SMA/SMALB, Kelas XI SMK, Kelas XIII SMK 4 tahun dan Pendidikan Kesetaraan, Laporan Hasil Belajar semester 2 (dua) disesuaikan dengan tanggal kelulusan yang ditetapkan oleh BSKAP Kemendiknas RI.  
+
+2. **Prakiraan Libur Umum Tahun Ajaran 2025/2026**  
+   a. Libur Umum Tahun 2025:  
+      1) Hari Kemerdekaan RI, Minggu, 17 Agustus 2025  
+      2) Maulid Nabi Muhammad SAW, Jumat, 5 September 2025  
+      3) Hari Raya Natal, Kamis, 25 Desember 2025  
+   b. Libur Umum Tahun 2026:  
+      1) Tahun Baru Masehi, Kamis, 1 Januari 2026  
+      2) Isra Mi’raj Nabi Muhammad SAW, Jumat, 16 Januari 2026  
+      3) Tahun Baru Imlek 2577, Selasa, 17 Februari 2026  
+      4) Hari Raya Nyepi, Sabtu, 19 Maret 2026  
+      5) Hari Raya Idulfitri 1447 H, Jumat–Sabtu, 20–21 Maret 2026  
+      6) Wafat Isa Almasih, Jumat, 3 April 2026  
+      7) Hari Buruh Internasional, Jumat, 1 Mei 2026  
+      8) Kenaikan Isa Almasih, Kamis, 14 Mei 2026  
+      9) Hari Raya Iduladha 1447 H, Rabu, 27 Mei 2026  
+      10) Hari Raya Waisak 2567, Minggu, 31 Mei 2026  
+      11) Hari Lahir Pancasila, Senin, 1 Juni 2026  
+      12) Tahun Baru Islam 1447 H, Rabu, 17 Juni
