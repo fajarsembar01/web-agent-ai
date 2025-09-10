@@ -1678,3 +1678,24 @@ Muatan belajar program pendidikan kesetaraan dinyatakan dalam Satuan Kredit Komp
       10) Hari Raya Waisak 2567, Minggu, 31 Mei 2026  
       11) Hari Lahir Pancasila, Senin, 1 Juni 2026  
       12) Tahun Baru Islam 1447 H, Rabu, 17 Juni
+
+3. **Libur umum Tahun Ajaran 2025/2026** mengikuti ketentuan hari libur yang ditetapkan bersama oleh Pemerintah.  
+
+4. **Libur Semester**  
+   - Libur Semester bagi PAUD, TKLB, SD, SDLB, SMP, SMPLB, SMA, SMALB, SMK dan SKB/PKBM diatur sebagai berikut:  
+     a. Libur setiap semester berlangsung selama 2 minggu.  
+     b. Libur Semester 1 (satu) mulai hari Sabtu tanggal 20 Desember 2025 dan berakhir hari Sabtu tanggal 3 Januari 2026.  
+     c. Libur Semester 2 (dua) mulai hari Sabtu, tanggal 27 Juni 2026 dan berakhir hari Sabtu tanggal 11 Juli 2026.  
+
+5. **Libur Ramadan dan Libur Hari Raya Idulfitri**  
+   a. Libur awal Ramadan berlangsung 1 hari sebelum bulan Ramadan dan 2 hari pada awal bulan Ramadan.  
+   b. Libur Hari Raya Idulfitri berlangsung 6 hari sebelum dan sesudah tanggal 1 Syawal 1447 H.  
+
+---
+
+**KEPALA DINAS PENDIDIKAN PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA**  
+
+_(ttd & stempel)_  
+
+**NAHDIANA**  
+NIP 196908061992012001  
