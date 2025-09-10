@@ -122,3 +122,14 @@
 }
 
 
+@keyframes dots {
+  0%, 20% { content: "."; }
+  40% { content: ".."; }
+  60% { content: "..."; }
+  100% { content: ""; }
+}
+
+.dots-loading::after {
+  content: ".";
+  animation: dots 1.2s infinite steps(4, end);
+}

@@ -1,12 +1,9 @@
-// ChatBox.tsx
-
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Message from "./Message";
 import { ScrollArea } from "./ui/scroll-area";
 
-// Ekspor tipe ini agar bisa diimpor oleh page.tsx
 export type ChatMsg = { sender: "user" | "aska"; text: string };
 
 interface ChatBoxProps {
@@ -16,29 +13,39 @@ interface ChatBoxProps {
 
 export default function ChatBox({ messages, loading }: ChatBoxProps) {
   const endRef = useRef<HTMLDivElement | null>(null);
+  const [emoji, setEmoji] = useState("🤔");
 
   useEffect(() => {
     endRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  // HAPUS SEMUA STATE (useState)
-  // HAPUS SEMUA FUNGSI (sendMessage, onKeyDown)
+  // Ganti emoji setiap 600ms saat loading
+  useEffect(() => {
+    if (!loading) return;
+    const emotes = ["🤔", "💭", "🧠", "💡"];
+    let i = 0;
+    const interval = setInterval(() => {
+      setEmoji(emotes[i % emotes.length]);
+      i++;
+    }, 600);
+    return () => clearInterval(interval);
+  }, [loading]);
 
   return (
-    // HAPUS SEMUA CLASS LAYOUT (h-calc, border, bg, dll)
-    // Komponen ini tidak lagi mengatur layout, hanya menampilkan isi.
     <ScrollArea className="h-full w-full">
       {messages.map((msg, idx) => (
         <Message key={idx} sender={msg.sender} text={msg.text} />
       ))}
+
       {loading && (
-        <div className="text-purple-400 text-sm italic mt-2 ml-2">
-          ASKA lagi mikir... 🤔✨
+        <div className="text-purple-400 text-sm italic mt-2 ml-2 flex items-center gap-1">
+          <span>ASKA lagi mikir</span>
+          <span>{emoji}</span>
+          <span className="dots-loading" />
         </div>
       )}
-      <div ref={endRef} />
 
-      {/* HAPUS SEMUA BAGIAN INPUT FORM DARI SINI */}
+      <div ref={endRef} />
     </ScrollArea>
   );
 }
