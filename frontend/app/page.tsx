@@ -1,5 +1,3 @@
-// page.tsx
-
 "use client";
 
 import { useState } from "react";
@@ -8,8 +6,6 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { type ChatMsg } from "@/components/ChatBox";
 
-// Asumsikan tinggi Navbar-mu adalah 65px. 
-// Jika berbeda, kamu bisa sesuaikan di sini atau di CSS.
 const NAVBAR_HEIGHT = "65px";
 
 export default function Home() {
@@ -35,8 +31,12 @@ export default function Home() {
       const res = await fetch("http://localhost:3001/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question: text }),
+        body: JSON.stringify({
+          question: text,
+          chatHistory: [...messages, userMsg], // ✅ Kirim history penuh
+        }),
       });
+
       const data = await res.json();
       const askaReply: ChatMsg = {
         sender: "aska",
@@ -58,17 +58,14 @@ export default function Home() {
   };
 
   return (
-    // 1. Container utama dengan tinggi layar dikurangi tinggi Navbar
     <div
       className="flex flex-col"
       style={{ height: `calc(100vh - ${NAVBAR_HEIGHT})` }}
     >
-      {/* 2. Area chat yang mengisi semua sisa ruang dan bisa di-scroll */}
       <div className="flex-1 overflow-y-auto p-4">
         <ChatBox messages={messages} loading={loading} />
       </div>
 
-      {/* 3. Input form yang menempel di bagian paling bawah container */}
       <div className="w-full bg-zinc-900 p-4">
         <div className="mx-auto flex w-full max-w-3xl gap-2">
           <Input
