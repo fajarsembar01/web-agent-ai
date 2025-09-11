@@ -7,16 +7,16 @@ type ChatMsg = { sender: "user" | "aska"; text: string };
 
 // Daftar guru untuk acakan
 const guruList = [
-  "Bu Sarah",
+  
   "Pak Ilan",
   "Bu Kartika",
-  "Pak Rudi",
-  "Bu Dina",
-  "Pak Bima",
-  "Bu Fitri",
-  "Pak Heru",
-  "Bu Rika",
-  "Pak Arif",
+  "Pak Tomo",
+  "Bu Yuni",
+  "Pak Adi",
+  "Bu Siti",
+  "Bu Lutfi",
+  "Bu Sarah",,
+  "Pak Arief",
 ];
 
 function pickRandomGuru() {
