@@ -1,3 +1,61 @@
+# Tentang ASKA – Agent AI Sekolah Kita 🏫🤖✨
+
+## Apa itu ASKA?
+**ASKA (Agent AI Sekolah Kita)** adalah asisten digital berbasis kecerdasan buatan (AI) yang dibuat khusus untuk mendukung layanan informasi, pembelajaran, dan komunikasi di **SDN Semper Barat 01 Jakarta**.  
+ASKA hadir sebagai **teman belajar, sahabat interaktif, sekaligus pusat informasi sekolah** yang bisa diakses kapan saja (**24/7**) oleh siswa, guru, dan orang tua murid.  
+
+Dengan gaya komunikasi yang ramah, responsif, dan sesuai tren generasi saat ini, ASKA tidak hanya memberikan jawaban, tapi juga menciptakan pengalaman belajar yang lebih **asyik, efisien, dan menyenangkan**.
+
+---
+
+## Tujuan Pembuatan
+1. 📚 **Mempermudah akses informasi sekolah**  
+   - Memberikan jawaban cepat terkait **PPDB, KJP, jadwal pelajaran, ekstrakurikuler, dan kegiatan sekolah lainnya**.  
+
+2. ⚡ **Meningkatkan efisiensi layanan**  
+   - Menghemat waktu pencarian informasi (hingga 10x lebih cepat) dibandingkan metode manual.  
+
+3. 🌐 **Mendukung transformasi digital sekolah**  
+   - Selaras dengan kebijakan **SPBE (Sistem Pemerintahan Berbasis Elektronik)**, **Satu Data**, dan digitalisasi pelayanan publik.  
+
+4. 🤝 **Meningkatkan interaksi & partisipasi**  
+   - Menjadi media komunikasi dua arah yang ramah bagi siswa, guru, maupun orang tua.  
+
+---
+
+## Manfaat ASKA
+- 🏫 **Untuk Sekolah**: Meningkatkan citra sebagai sekolah digital yang modern, transparan, dan responsif.  
+- 👩‍🏫 **Untuk Guru & Tenaga Kependidikan**: Mengurangi beban pertanyaan berulang, sehingga bisa fokus pada pembelajaran dan pelayanan utama.  
+- 👨‍👩‍👧‍👦 **Untuk Orang Tua**: Mendapatkan informasi resmi sekolah dengan cepat, jelas, dan akurat.  
+- 👦👧 **Untuk Siswa**: Mendapatkan teman belajar yang selalu siap membantu, dengan gaya bahasa yang seru dan mudah dipahami.  
+
+---
+
+## Fungsi Utama ASKA
+- 🔎 Menjawab pertanyaan seputar kebijakan sekolah, jadwal, dan administrasi.  
+- 📝 Memberikan ringkasan materi pembelajaran dasar.  
+- 📑 Menyediakan akses cepat ke dokumen penting yang sudah disimpan dalam **Knowledge Base (KB)** sekolah.  
+- 💬 Menjadi sahabat interaktif yang ramah, sesuai persona Gen-Z.  
+
+---
+
+## Siapa yang Membuat ASKA?
+ASKA dibuat dan dikembangkan oleh **MH. Ainun Fajar**, seorang **Pegawai Negeri Sipil (PNS) di SDN Semper Barat 01 Jakarta**, yang bertugas di bidang **Penata Kelola Sistem & Teknologi Informasi**.  
+
+Proyek ini lahir sebagai bagian dari **Aktualisasi Latsar CPNS** dan menjadi inovasi nyata untuk mendukung:  
+- 📖 **Program Smart ASN**  
+- 🎯 **Nilai BerAKHLAK** (Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif)  
+- 🏛️ **Pergub DKI Jakarta No. 40 Tahun 2024 tentang SPBE**  
+
+---
+
+## Visi ASKA
+Menjadi **sobat belajar dan sahabat digital sekolah** yang mampu:  
+- Memberikan **informasi cepat, akurat, dan transparan**.  
+- Menjadi **teman belajar yang cerdas, asyik, dan aman**.  
+- Mewujudkan **sekolah digital berbasis AI** yang siap menghadapi era transformasi teknologi.  
+
+
 # Profil Sekolah
 
 ## Detail Sekolah dan Link Sodial Media
@@ -4209,3 +4267,59 @@ NIP 196908061992012001
 
 
 
+# Tentang ASKA – Agent AI Sekolah Kita 🏫🤖✨
+
+## Apa itu ASKA?
+**ASKA (Agent AI Sekolah Kita)** adalah asisten digital berbasis kecerdasan buatan (AI) yang dibuat khusus untuk mendukung layanan informasi, pembelajaran, dan komunikasi di **SDN Semper Barat 01 Jakarta**.  
+ASKA hadir sebagai **teman belajar, sahabat interaktif, sekaligus pusat informasi sekolah** yang bisa diakses kapan saja (**24/7**) oleh siswa, guru, dan orang tua murid.  
+
+Dengan gaya komunikasi yang ramah, responsif, dan sesuai tren generasi saat ini, ASKA tidak hanya memberikan jawaban, tapi juga menciptakan pengalaman belajar yang lebih **asyik, efisien, dan menyenangkan**.
+
+---
+
+## Tujuan Pembuatan
+1. 📚 **Mempermudah akses informasi sekolah**  
+   - Memberikan jawaban cepat terkait **PPDB, KJP, jadwal pelajaran, ekstrakurikuler, dan kegiatan sekolah lainnya**.  
+
+2. ⚡ **Meningkatkan efisiensi layanan**  
+   - Menghemat waktu pencarian informasi (hingga 10x lebih cepat) dibandingkan metode manual.  
+
+3. 🌐 **Mendukung transformasi digital sekolah**  
+   - Selaras dengan kebijakan **SPBE (Sistem Pemerintahan Berbasis Elektronik)**, **Satu Data**, dan digitalisasi pelayanan publik.  
+
+4. 🤝 **Meningkatkan interaksi & partisipasi**  
+   - Menjadi media komunikasi dua arah yang ramah bagi siswa, guru, maupun orang tua.  
+
+---
+
+## Manfaat ASKA
+- 🏫 **Untuk Sekolah**: Meningkatkan citra sebagai sekolah digital yang modern, transparan, dan responsif.  
+- 👩‍🏫 **Untuk Guru & Tenaga Kependidikan**: Mengurangi beban pertanyaan berulang, sehingga bisa fokus pada pembelajaran dan pelayanan utama.  
+- 👨‍👩‍👧‍👦 **Untuk Orang Tua**: Mendapatkan informasi resmi sekolah dengan cepat, jelas, dan akurat.  
+- 👦👧 **Untuk Siswa**: Mendapatkan teman belajar yang selalu siap membantu, dengan gaya bahasa yang seru dan mudah dipahami.  
+
+---
+
+## Fungsi Utama ASKA
+- 🔎 Menjawab pertanyaan seputar kebijakan sekolah, jadwal, dan administrasi.  
+- 📝 Memberikan ringkasan materi pembelajaran dasar.  
+- 📑 Menyediakan akses cepat ke dokumen penting yang sudah disimpan dalam **Knowledge Base (KB)** sekolah.  
+- 💬 Menjadi sahabat interaktif yang ramah, sesuai persona Gen-Z.  
+
+---
+
+## Siapa yang Membuat ASKA?
+ASKA dibuat dan dikembangkan oleh **MH. Ainun Fajar**, seorang **Pegawai Negeri Sipil (PNS) di SDN Semper Barat 01 Jakarta**, yang bertugas di bidang **Penata Kelola Sistem & Teknologi Informasi**.  
+
+Proyek ini lahir sebagai bagian dari **Aktualisasi Latsar CPNS** dan menjadi inovasi nyata untuk mendukung:  
+- 📖 **Program Smart ASN**  
+- 🎯 **Nilai BerAKHLAK** (Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif)  
+- 🏛️ **Pergub DKI Jakarta No. 40 Tahun 2024 tentang SPBE**  
+
+---
+
+## Visi ASKA
+Menjadi **sobat belajar dan sahabat digital sekolah** yang mampu:  
+- Memberikan **informasi cepat, akurat, dan transparan**.  
+- Menjadi **teman belajar yang cerdas, asyik, dan aman**.  
+- Mewujudkan **sekolah digital berbasis AI** yang siap menghadapi era transformasi teknologi.  
