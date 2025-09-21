@@ -26,18 +26,18 @@ export default function Home() {
     setMessages((prev) => [...prev, userMsg]);
     setInput("");
     setLoading(true);
-
     try {
-      const res = await fetch("http://localhost:3001/chat", {
+      const res = await fetch("https://web-agent-ai.onrender.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           question: text,
-          chatHistory: [...messages, userMsg], // ✅ Kirim history penuh
+          chatHistory: [...messages, userMsg],
         }),
       });
 
-      const data = await res.json();
+      const data = await res.json(); // ← di sinilah res digunakan dengan benar
+
       const askaReply: ChatMsg = {
         sender: "aska",
         text: data.answer ?? "Maaf ya, ASKA belum bisa jawab 😅",
@@ -48,6 +48,7 @@ export default function Home() {
     } finally {
       setLoading(false);
     }
+
   };
 
   const onKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
