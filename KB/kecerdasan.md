@@ -2919,8 +2919,8 @@ Pergub No. 110 Tahun 2021 tentang Bantuan Sosial Biaya Pendidikan.
 
 **Status:** Telah dibuka  
 **Proyeksi penerima baru:** 3.466 mahasiswa (untuk mengisi kuota penerima KJMU yang telah lulus)
-link pendafatran : https://p4op.jakarta.go.id/kjmu/login
-inf lebih lengkap : p4op.jakarta.go.id/kjmu
+**link pendafatran** : https://p4op.jakarta.go.id/kjmu/login
+**info lebih lengkap** : p4op.jakarta.go.id/kjmu
 ## Dasar
 Sesuai **Pergub DKI Jakarta No. 101 Tahun 2021**.
 
